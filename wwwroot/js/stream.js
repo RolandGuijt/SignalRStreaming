@@ -13,7 +13,7 @@ const connection = new signalR.HubConnectionBuilder()
     .build();
 document.getElementById("streamButton").addEventListener("click", (event) => __awaiter(this, void 0, void 0, function* () {
     try {
-        connection.stream("Counter", 10, 500)
+        connection.stream("Counter", { countUntil: 10, delayMilliseconds: 500})
             .subscribe({
             next: (item) => {
                 var li = document.createElement("li");
