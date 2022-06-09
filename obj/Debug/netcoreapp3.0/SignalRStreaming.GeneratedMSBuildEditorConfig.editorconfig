@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SignalRStreaming
+build_property.ProjectDir = C:\Users\rolan\Downloads\AspNetCore.Docs-live\aspnetcore\signalr\streaming\samples\3.0\
