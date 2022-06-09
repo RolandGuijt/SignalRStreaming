@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qk6Dxz5Uhfq4jFUtqCpyQnQkm+BxnGkd0Q6bV8lKCdM=",
+  "Hash": "n803Zg4VtqWx5JOP/ZWuWQcLrIcT5ehpECcWC3QuF28=",
   "Source": "SignalRStreaming",
   "BasePath": "_content/SignalRStreaming",
   "Mode": "Default",
@@ -100,23 +100,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\signalr\\dist\\browser\\signalr.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\rolan\\source\\repos\\SignalRStreaming\\wwwroot\\ts\\stream.ts",
-      "SourceId": "SignalRStreaming",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rolan\\source\\repos\\SignalRStreaming\\wwwroot\\",
-      "BasePath": "_content/SignalRStreaming",
-      "RelativePath": "ts/stream.ts",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ts\\stream.ts"
     }
   ]
 }
